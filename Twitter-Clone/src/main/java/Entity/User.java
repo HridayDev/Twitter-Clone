@@ -5,7 +5,7 @@ public class User {
 	private int Id;
 	private String FullName;
 	private String Username;
-	private String Bio;
+	private String Bio = "Hello! Ask me to change This BIO.";
 	private String ProfilePic;
 	private String Email;
 
